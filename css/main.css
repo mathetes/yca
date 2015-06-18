@@ -278,6 +278,8 @@ nav {
     display: block;
     margin-left: 22px;
     font-weight: normal;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 
