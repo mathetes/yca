@@ -105,7 +105,6 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5a5a5', endColorstr='#656565', GradientType=0 );
     position: relative;
     border-radius:3px;
-
 }
 
 .oops:before,
@@ -178,6 +177,7 @@ body {
 	margin-left: -2px;
     padding-left: 22px;
     margin-top:3px;
+    font-weight: normal;
 }
 .article-p {
 	color:#777777;
@@ -205,6 +205,7 @@ nav {
 	padding-left: 29px;
 	margin-left: -8px;
 	margin-bottom: 9px;
+	font-weight: normal;
 	background: rgba(55,118,180,1);
 	background: -moz-linear-gradient(top, rgba(55,118,180,1) 0%, rgba(35,71,109,1) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(55,118,180,1)), color-stop(100%, rgba(35,71,109,1)));
@@ -273,9 +274,10 @@ nav {
 	color:#28517a;
 	float:left;
 	line-height:2;
-	width:84px;
+	width:73px;
     display: block;
     margin-left: 22px;
+    font-weight: normal;
 }
 
 
